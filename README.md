@@ -24,6 +24,15 @@ The project was developed in Python and utilizes the following libraries:
 *   `scikit-image`: For HOG feature extraction.
 *   `matplotlib` & `seaborn`: For data visualization.
 
+## AI Assistance & Tooling
+During the development of this project in October 2026, **Google Gemini 3** was utilized as a pair-programming assistant to enhance productivity. Specifically, the AI was used for:
+*   Brainstorming ideas and discussing core ML concepts.
+*   Debugging issues and optimizing code segments.
+*   Generating specific code snippets (code generation).
+*   Structuring and generating this README documentation.
+
+*Note: All AI-generated suggestions and code were thoroughly reviewed, tested, and manually integrated to ensure correctness and alignment with the project's goals.*
+
 ## Repository Structure
 *   `data/`: Directory where the datasets are stored (ignored via `.gitignore` to prevent uploading large files).
 *   `notebooks/`: Contains the Jupyter Notebooks with all the source code, analysis, and results (e.g., `01_ebay_auctions_analysis.ipynb`, `02_cifar10_image_classification.ipynb`).
