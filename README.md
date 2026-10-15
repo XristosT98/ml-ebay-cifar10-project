@@ -26,5 +26,5 @@ The project was developed in Python and utilizes the following libraries:
 
 ## Repository Structure
 *   `data/`: Directory where the datasets are stored (ignored via `.gitignore` to prevent uploading large files).
-*   `notebooks/`: Contains the Jupyter Notebooks with all the source code, analysis, and results (e.g., `Τελελης_ebay_final_3.ipynb`, `Τελέλης_εικόνες_Final_3.ipynb`).
-*   `reports/`: Contains the full project report in PDF format (`Παρουσίαση_Τελελης_2.pdf`).
+*   `notebooks/`: Contains the Jupyter Notebooks with all the source code, analysis, and results (e.g., `01_ebay_auctions_analysis.ipynb`, `02_cifar10_image_classification.ipynb`).
+*   `reports/`: Contains the full project report in PDF format in greek (will be updated) (`ml_project_presentation.pdf`).
