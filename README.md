@@ -34,6 +34,6 @@ During the development of this project in October 2026, **Google Gemini 3** was 
 *Note: All AI-generated suggestions and code were thoroughly reviewed, tested, and manually integrated to ensure correctness and alignment with the project's goals.*
 
 ## Repository Structure
-*   `data/`: Directory where the datasets are stored (ignored via `.gitignore` to prevent uploading large files).
+*   `data/`: Directory where the datasets are stored (ignored via `.gitignore` to prevent uploading large files). (to be updated)
 *   `notebooks/`: Contains the Jupyter Notebooks with all the source code, analysis, and results (e.g., `01_ebay_auctions_analysis.ipynb`, `02_cifar10_image_classification.ipynb`).
 *   `reports/`: Contains the full project report in PDF format in greek (will be updated) (`ml_project_presentation.pdf`).
